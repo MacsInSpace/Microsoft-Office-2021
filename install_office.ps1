@@ -47,7 +47,7 @@ foreach ($regkey in $regkeys) {
 }
 
 # scrape for the dynamic download link
-$web = Invoke-WebRequest -UseBasicParsing -Uri 'https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117'
+$web = Invoke-WebRequest -UseBasicParsing -Uri 'https://www.microsoft.com/en-au/download/details.aspx?id=49117'
 
 # extract filename from download link
 $downloadlink = $web.links | Where-Object -Property 'href' -Like "*.exe"  | Select-Object -first 1
