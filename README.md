@@ -1,3 +1,9 @@
+[![GitHub Stars](https://img.shields.io/github/stars/upioneer/microsoft-office-2021?style=flat-square&color=yellow)](https://github.com/upioneer/microsoft-office-2021/stargazers)
+[![Forks](https://img.shields.io/github/forks/upioneer/microsoft-office-2021?style=flat-square&color=green)](https://github.com/upioneer/microsoft-office-2021/network/members)
+[![Issues](https://img.shields.io/github/issues/upioneer/microsoft-office-2021?style=flat-square&color=red)](https://github.com/upioneer/microsoft-office-2021/issues)
+[![Contributors](https://img.shields.io/github/contributors/upioneer/microsoft-office-2021?style=flat-square&color=blue)](https://github.com/upioneer/microsoft-office-2021/graphs/contributors)
+
+---
 # Microsoft Office 2021
 
 `As of September 2023, it appears the Office packages no longer support activation so keep this a consideration`
